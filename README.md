@@ -6,10 +6,10 @@ This is a web API project that implements CRUD operations for a data model. The 
 - Swagger for testing the API endpoints
 
 # Technologies Used
-C#
-ASP.NET Core MVC
-Entity Framework Core
-Swagger
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- Swagger
 
 # Installation
 - Clone the repository to your local machine
