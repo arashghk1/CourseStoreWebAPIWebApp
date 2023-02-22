@@ -20,9 +20,12 @@ Swagger
 - Run the application
 
 # Usage
-Open the Swagger UI in your web browser at https://localhost:5001/swagger/index.html
-Test the API endpoints using the Swagger UI
-Endpoints
+- Configure the connection string in program.cs
+- Open package manager console --> default package = coursestore.dal --> Add-Migration init --> Update-Database
+- Run the program and Open the Swagger UI in your web browser at https://localhost:5001/swagger/index.html
+- Test the API endpoints using the Swagger UI
+
+# Endpoints
 The following endpoints are available for testing in the Swagger UI:
 
 - GET /api/data: Retrieves all data items
