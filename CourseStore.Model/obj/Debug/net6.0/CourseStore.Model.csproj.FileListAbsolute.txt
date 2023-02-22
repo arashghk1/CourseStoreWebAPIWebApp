@@ -1,0 +1,47 @@
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.AssemblyReference.cache
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfoInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfo.cs
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.deps.json
+F:\Source\Samples\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.dll
+F:\Source\Samples\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.pdb
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.dll
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\refint\CourseStore.Model.dll
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.pdb
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\ref\CourseStore.Model.dll
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.deps.json
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.dll
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\bin\Debug\net6.0\ref\CourseStore.Model.dll
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.pdb
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.AssemblyReference.cache
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfoInputs.cache
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfo.cs
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.CoreCompileInputs.cache
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.dll
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\ref\CourseStore.Model.dll
+F:\Programming\Charp Learning NikAmooz\ASP.Net EcoSystem\Session 26\Workshop\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.pdb
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.deps.json
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\bin\Debug\net6.0\ref\CourseStore.Model.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.pdb
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfoInputs.cache
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfo.cs
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\obj\Debug\net6.0\ref\CourseStore.Model.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.deps.json
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.dll
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.AssemblyReference.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfoInputs.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfo.cs
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.CoreCompileInputs.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.dll
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\refint\CourseStore.Model.dll
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\وب و api\CourseStore.Model\obj\Debug\net6.0\ref\CourseStore.Model.dll
